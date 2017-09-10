@@ -1,9 +1,6 @@
 const int SENSOR_PORT = A0;  // CdSセンサー入力ポート
 const int LOOP_DELAY = 1000; // ループ周期(ms)
 
-int sensorPort = 0;
-
-
 
 void setup() {
   
