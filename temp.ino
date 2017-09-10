@@ -1,4 +1,4 @@
-const int SENSOR_PORT = A0;  // CdSセンサー入力ポート
+const int SENSOR_PORT = A0;  // 温度センサー入力ポート
 const int LOOP_DELAY = 1000; // ループ周期(ms)
 
 
